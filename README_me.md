@@ -1,0 +1,3 @@
+最近在debug这个仓库
+1. 直接clone下来就能运行，我把weights和data都放到仓库里了
+2. Makefile是修改过的，检查下库的路径就好了
